@@ -1,0 +1,9 @@
+{
+    "fromYear": 2003,
+    "toYear": 2017,
+    "fromPrice": 500,
+    "toPrice": 5000,
+    "seller": "частно лице",
+    "models": "BMW,Mercedes,Audi",
+    "description": "бензин"
+}
